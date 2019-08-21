@@ -1,9 +1,13 @@
 # ArcadeVehiclePhysics 0.1V
+Made by Ben McInnes 
+Email: hello[at]benmcinnes.com
+Twitter: @BSMcInnes
+
 A repo for creating arcade inspired physics system for vehicles in Unity.
 
 The scripts involved in the project could be used for several types of vehicles if need be but the use and test case has been that of a car.
 
-This is a side project and while I have a lot of ideas on how to improve this, it mostly depends on available time. If you have any feedback or thoughts, please contact me hello[at]benmcinnes.com or on twitter: @BSMcInnes
+This is a side project and while I have a lot of ideas on how to improve this, it mostly depends on available time. If you have any feedback or thoughts, please contact me via email or on twitter. Also if you use this at all I would love to see what you make!
 
 ## Information
 
