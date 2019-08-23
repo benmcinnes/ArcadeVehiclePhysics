@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/ArcadeVehiclePhysics/SampleLevel/Scenes/TestTrack.unity
+    guid: f3c5b61214f7fa94db4d0f773fc9be0e
   m_configObjects: {}

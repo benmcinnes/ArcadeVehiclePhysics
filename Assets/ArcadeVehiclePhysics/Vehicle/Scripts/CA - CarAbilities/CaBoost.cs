@@ -67,6 +67,6 @@ public class CaBoost : CaAbility
 
         //Note sign has been accounted for when calculating acceleration
         Vector3 force = Time.fixedDeltaTime * currentBoost * _cpMain.rb.transform.forward; 
-        _cpMain.rb.AddForce(force, ForceMode.Acceleration);
+        _cpMain.rb.AddForce(force, ForceMode.Impulse);
     }
 }

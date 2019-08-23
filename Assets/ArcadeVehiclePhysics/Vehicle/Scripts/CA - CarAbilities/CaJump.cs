@@ -10,8 +10,6 @@ public class CaJump : CaAbility
     public float forceMax = 50;
     public float forceChargeRate = 15;
 
-    //Flip while drifting
-    public float flipForce;
     [Space]
     //Internal Variables
     public float currentCharge = 0;
@@ -59,6 +57,8 @@ public class CaJump : CaAbility
 
         Rigidbody rb = _cpMain.rb;
         rb.AddForceAtPosition(currentCharge * rb.transform.up, rb.position, ForceMode.Impulse);
+        currentCharge = 0;
+        
     }
 
 }

@@ -48,8 +48,7 @@ public class CvWheels : MonoBehaviour
     public void SetUpWheel(Rigidbody carRb)
     {
         _carRb = carRb;
-
-        wheelPosition = transform.localPosition.z > _carRb.transform.localPosition.z ? WheelPosition.Front : WheelPosition.Back;
+        wheelPosition = transform.parent.localPosition.z > 0 ? WheelPosition.Front : WheelPosition.Back;
     }
 
     public void ProcessWheelVisuals(PlayerInputs input, VehicleSpeed vehicleSpeed)
