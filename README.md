@@ -23,8 +23,11 @@ The awesome [Muscle Car](https://sketchfab.com/3d-models/flat-colored-muscle-car
 ArcadeVehiclePhysics.package
 * Unity Cinemachine
 
+**NOTE**: You may need to upgrade your version of Cinemachine depending on the version of Unity you are using.
+
 Sample Scene
 * TextMeshPro
+* Probuilder - For Level geometry 
 
 ### Unity Version
 This project was built and tested in Unity 2018.4.5f1 LTS
@@ -40,7 +43,7 @@ I have learned a great deal from available information on the internet. The bigg
 
 ## Setup
 
-# Componenets
+# Components
 The implementation has been broken up into small single responsibility scripts. This way you can pick and choose what you are interested in using.
 
 ## Car Physics (CP)
