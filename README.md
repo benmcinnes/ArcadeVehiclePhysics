@@ -22,12 +22,14 @@ The awesome [Muscle Car](https://sketchfab.com/3d-models/flat-colored-muscle-car
 ### Dependencies
 ArcadeVehiclePhysics.package
 * Unity Cinemachine
+* PostProcessing Stack
 
 **NOTE**: You may need to upgrade your version of Cinemachine depending on the version of Unity you are using.
 
 Sample Scene
 * TextMeshPro
 * Probuilder - For Level geometry 
+
 
 ### Unity Version
 This project was built and tested in Unity 2018.4.5f1 LTS
