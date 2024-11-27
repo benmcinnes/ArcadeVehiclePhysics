@@ -19,8 +19,6 @@ If you use this repo, I would love to see what you make!
 
 This project was built and tested for use with a controller. In the interest of keeping the dependencies light, I have used Unity's default Input manager.
 
-I would highly recommend [Sinput](https://sophieh.itch.io/sinput) by [Sophie Houlden](www.sophiehoulden.com)
-
 ### Credits 
 
 The awesome [Muscle Car](https://sketchfab.com/3d-models/flat-colored-muscle-car-5220c6fa750841d9a674d963a697bee4) model was created by [Asuza](https://sketchfab.com/azusanyan1992)
@@ -207,6 +205,3 @@ To reduce the amount of forward speed lost when coming out of a drift, the corre
 While boosting an extra forward force is applied to the vehicle. There is a limited amount of time you can boost and it recharges while not boosting.
 
 ![MediumLoop](https://github.com/benmcinnes/ArcadeVehiclePhysics/blob/master/ReadmeFiles/MediumLoop.gif)
-
-# End Note
-This is a work in progress. If you try it out, please let me know if you have any feedback on how I can improve this system. You can contact me at hello@benmcinnes.com
